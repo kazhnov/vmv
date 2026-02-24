@@ -1,0 +1,6 @@
+[submodule "redist/vgfx"]
+	path = redist/vgfx
+	url = https://github.com/kazhnov/vgfx
+[submodule "redist/vvox"]
+	path = redist/vvox
+	url = https://github.com/kazhnov/vvox
